@@ -6,19 +6,13 @@ Welcome to the Embedded Systems repository! This repository contains code and re
 
 This repository includes implementations and drivers for various architectures:
 
-- AVR
-- ARM
-- Tiva C
+- **AVR**
+- **ARM**
+- **Tiva C**
 
-## Educational Background
+## Implemented Drivers
 
-I have completed the Udacity Embedded Systems Advanced Nano Degree, where I gained expertise in the following areas:
-
-- ARM Cortex-M Architecture
-- Real-Time Operating Systems (RTOS)
-- Embedded Software Design
-- Safe Coding Practices (MISRA)
-- Agile Methodologies
+I have implemented both Microcontroller Abstraction Layer (MCAL) and Hardware Abstraction Layer (HAL) drivers for the supported microcontrollers. The drivers provide a convenient interface for interacting with the hardware, abstracting away the low-level details.
 
 ## Embedded Masterclass
 
@@ -30,4 +24,4 @@ In addition to my educational background, I have successfully completed an inten
 - Safe Coding Practices (MISRA)
 - Agile Methodologies
 
-Feel free to explore the repository and reach out if you have any questions or suggestions!
+Feel free to explore the repository and the implemented drivers. If you have any questions or suggestions, please don't hesitate to reach out!
