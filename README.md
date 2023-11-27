@@ -24,4 +24,3 @@ In addition to my educational background, I have successfully completed an inten
 - Safe Coding Practices (MISRA)
 - Agile Methodologies
 
-Feel free to explore the repository and the implemented drivers. If you have any questions or suggestions, please don't hesitate to reach out!
